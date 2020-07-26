@@ -30,7 +30,7 @@ pageWithSidebar(
   ),
 
   mainPanel(
-    tags$label(h3('Status/Output, by isam elbousserghini')), # Status/Output Text Box
+    tags$label(h3('Status/Output, by isam elbousserghini 2020')), # Status/Output Text Box
     verbatimTextOutput('contents'),
     tableOutput('tabledata') # Prediction results table
 
